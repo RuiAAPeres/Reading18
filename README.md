@@ -1,1 +1,1 @@
-
+- [Smart goals](http://www.getrichslowly.org/2017/12/26/smart-goals/) by J. D. Roth
