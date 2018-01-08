@@ -10,3 +10,5 @@
 - 🔍 [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) by Rondy Sousa
 - 📚 [Mastering Street photography](https://www.amazon.co.uk/Mastering-Street-Photography-Brian-Duckett/dp/1781452695) by Brian Lloyd Duckett
 - 🔍 [Science says fitness trackers don't work. wear one anyway](https://www.wired.com/story/science-says-fitness-trackers-dont-work-wear-one-anyway/), by Robbie Gonzalez
+- 🔍 [Casting a $20 Million Mirror for the World’s Largest Telescope
+](https://spectrum.ieee.org/video/aerospace/astrophysics/casting-a-20-million-mirror-for-the-worlds-largest-telescope), by Celia Gorman
