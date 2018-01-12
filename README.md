@@ -12,4 +12,4 @@
 - 🔍 [Science says fitness trackers don't work. wear one anyway](https://www.wired.com/story/science-says-fitness-trackers-dont-work-wear-one-anyway/), by Robbie Gonzalez
 - 🔍 [Casting a $20 Million Mirror for the World’s Largest Telescope
 ](https://spectrum.ieee.org/video/aerospace/astrophysics/casting-a-20-million-mirror-for-the-worlds-largest-telescope), by Celia Gorman
-🔍 [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/), by Ben Horowitz
+- 🔍 [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/), by Ben Horowitz
