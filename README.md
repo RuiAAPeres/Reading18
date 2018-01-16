@@ -14,3 +14,4 @@
 ](https://spectrum.ieee.org/video/aerospace/astrophysics/casting-a-20-million-mirror-for-the-worlds-largest-telescope), by Celia Gorman
 - 🔍 [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/), by Ben Horowitz
 - 🔍 [Your smartphone📱is making you👈 stupid, antisocial 🙅 and unhealthy 😷. So why can't you put it down❔⁉️](https://www.theglobeandmail.com/technology/your-smartphone-is-making-you-stupid/article37511900/), by Eric Andrew-Gee
+- ✏️ [On being an engineering manager](http://codeplease.io/2018/01/15/on-being-an-engineering-manager/) by Rui Peres
