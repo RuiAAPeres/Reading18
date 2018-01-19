@@ -18,3 +18,4 @@
 - 🔍 [Chernobyl’s Hot Mess, “the Elephant’s Foot,” Is Still Lethal](http://nautil.us/blog/chernobyls-hot-mess-the-elephants-foot-is-still-lethal), by Kyle Hill 
 - 🔍 [Stop answering your own questions](https://medium.com/@skamille/stop-answering-your-own-questions-52d39fe7d3e6), by Camille Fournier
 - 🔍 [The Modern Day Good Product Manager/Bad Product](https://medium.com/@hemal/the-modern-day-good-product-manager-bad-product-d5b537398e3a), by Hemal Shah
+- 🔍 [Why People Dislike Really Smart Leaders](https://www.scientificamerican.com/article/why-people-dislike-really-smart-leaders/), by  Matthew Hutson
