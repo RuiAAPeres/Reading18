@@ -19,3 +19,4 @@
 - 🔍 [Stop answering your own questions](https://medium.com/@skamille/stop-answering-your-own-questions-52d39fe7d3e6), by Camille Fournier
 - 🔍 [The Modern Day Good Product Manager/Bad Product](https://medium.com/@hemal/the-modern-day-good-product-manager-bad-product-d5b537398e3a), by Hemal Shah
 - 🔍 [Why People Dislike Really Smart Leaders](https://www.scientificamerican.com/article/why-people-dislike-really-smart-leaders/), by  Matthew Hutson
+🔍 [Explaining the Law of Conservation of Complexity](http://www.humanist.co/blog/law-of-conservation-of-complexity/), by  Michael Calleia
