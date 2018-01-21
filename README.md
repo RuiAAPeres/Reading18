@@ -21,4 +21,4 @@
 17. 🔍 [Why People Dislike Really Smart Leaders](https://www.scientificamerican.com/article/why-people-dislike-really-smart-leaders/), by  Matthew Hutson
 18. 🔍 [Explaining the Law of Conservation of Complexity](http://www.humanist.co/blog/law-of-conservation-of-complexity/), by  Michael Calleia
 19. 🔍 [I Was a Bank Robber Until I Read Kant](https://thewalrus.ca/i-was-a-bank-robber-until-i-read-kant/), by Robbie Dillon
- 
+20. 🔍 [Best ways to kill your startup](https://medium.com/swlh/best-ways-to-kill-your-startup-8604a1768a89), by Bram Krommenhoek
