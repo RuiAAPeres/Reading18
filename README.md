@@ -23,3 +23,4 @@
 19. 🔍 [I Was a Bank Robber Until I Read Kant](https://thewalrus.ca/i-was-a-bank-robber-until-i-read-kant/), by Robbie Dillon
 20. 🔍 [Best ways to kill your startup](https://medium.com/swlh/best-ways-to-kill-your-startup-8604a1768a89), by Bram Krommenhoek
 21. 🔍 [How I Read More Books](https://www.kennorton.com/newsletter/2017-02-22-bringing-the-donuts.html), by Ken Norton
+22. [Haskell for all](http://www.haskellforall.com/2012/08/the-category-design-pattern.html) by Gabriel Gonzalez 
